@@ -16,4 +16,8 @@ If you encounter errors like `ENOTEMPTY` or `EPERM`, try the following:
    ```
 2. npm run dev
 
-
+NOTE: for your transactions, you will have to install Meta mask transaction.
+      go to: https://metamask.io/download
+      and download the extension.
+      Create your wallet.
+   
